@@ -1,6 +1,6 @@
 **실행영상: https://youtu.be/XwGct3jzOe4
 
-*개발환경:
+*개발환경: <br>
 -Raspberrypi(Raspbian): Python Flask <br>
 -pc(Ubuntu): Python Flask <br>
 -Application: ReactNative <br>
