@@ -1,6 +1,6 @@
 소개
 ============
-#### Raspberrypi+ReactNative로 구현한 SmartHomeCCTV
+#### Python 얼굴인식 딥러닝 + Raspberrypi + ReactNative로 구현한 SmartHomeCCTV
 #### 실행영상: https://youtu.be/XwGct3jzOe4
 
 
